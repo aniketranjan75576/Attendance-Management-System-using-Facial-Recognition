@@ -2,6 +2,8 @@
 This is a Attendance Management System using Facial Recognition. If the model recognizes your face it will store your attendance for that date in an
 Excel sheet with time.
 This is a full stack project built on python and local storage.
+
+
 Manual one->
 Step-1-> Run the face_recognition.py and do the asked.
 
